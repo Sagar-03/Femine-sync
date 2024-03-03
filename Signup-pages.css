@@ -1,0 +1,234 @@
+*  {
+    padding:0;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color:#D71F8D;
+    top: 0;
+}
+
+.logo img {
+    margin-left: 10px;
+    height: 75px;
+    width: 200px;
+}
+.nav-options {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 1rem;
+    padding-left: 30rem;
+    padding-right: 5rem;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.nav-options p {
+    margin: 30px;
+}
+.nav-options button {
+    display: flex;
+   background-color:white;
+   opacity: 0.5;
+   color: black;
+   padding: 5px 15px 5px 15px;
+   border-radius: 0.5rem;
+   border: none;
+   margin: 20px;
+   font-weight: 700;
+}
+.nav-options p:hover {
+    text-decoration: underline;
+}
+.circle1 img {
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+}
+.circle2 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 1200px;
+}
+.circle3 img {
+    height: 50px;
+    width: 50px;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.circle4 img {
+    height: 250px;
+    width: 250px;
+    margin-left: 350px;
+    z-index: -1;
+}
+.circle5 img {
+    height: 300px;
+    width: 300px;
+    margin-left: 1200px;
+    z-index: -1;
+}
+.circle6 img {
+    height: 50px;
+    width: 50px;
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.circle7 img {
+    height: 300px;
+    width: 300px;
+    margin-left: 10px;
+    z-index: -1;
+
+}
+.circle8 img {
+    height: 100px;
+    width: 100px;
+    margin-left: 1200px;
+}
+
+.login-box {
+    height: 550px;
+    width: 500px;
+    background-color: #FF69B4CC;
+    position: absolute;
+    z-index: 1;
+    margin-left: 550px;
+    border-radius: 5%;
+    box-shadow: 2px 2px 8px #FF69B4CC;
+}
+h5 {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 20px;
+}
+.email {
+    height: 35px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 8px black;
+}
+.phone {
+    height: 35px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 8px black;
+}
+.age {
+    height: 35px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 8px black;
+}
+.password {
+    height: 35px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 100px;
+    border-radius: 0.5rem;
+    box-shadow: 2px 2px 8px black;
+}
+
+.btn1 {
+    background-color: #5A0E49;
+    height: 35px;
+    width: 300px;
+    border-radius:0.5rem;
+    margin-top: 30px;
+    margin-left: 100px;
+    color: white;
+}
+.btn2 {
+    background-color: #5A0E49;
+    margin-top: 30px;
+    margin-left: 100px;
+    height: 35px;
+    width: 300px;
+    border-radius: 5rem;
+    color: white;
+}
+.or {
+    color: black;
+    display: flex;
+    margin-left: 159px;
+    margin-top: 50px;
+}
+.orr {
+    color: white;
+}
+.acc {
+    color: white; 
+    margin-left: 125px;
+    margin-top: 50px;
+}
+.li {
+    color: rgb(10, 10, 75);
+}
+.footer {
+    bottom:0;
+    background-color: #D71F8D;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    z-index: 10;
+}
+
+.logo2 {
+    height: 300px;
+    width: 250px;
+}
+.logo2 img {
+    height: 100px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.logo2 p {
+    color: white;
+    font-weight: 300px;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.con {
+    margin-left: 100px;
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+  
+} 
+
+.mail {  
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.contact {
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+.cn {
+    margin-left: 200px;
+    color: white;
+    font-size: 25px;
+    display: block;
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+}
+.cn:hover i {
+    border: black;
+}
