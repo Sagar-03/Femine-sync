@@ -1,0 +1,284 @@
+*  {
+    padding:0;
+    margin: 0;
+}
+
+.navbar {
+    display: flex;
+    background-color:#D71F8D;
+    top: 0;
+}
+
+.logo img {
+    margin-left: 10px;
+    height: 75px;
+    width: 200px;
+}
+.nav-options {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 1rem;
+    padding-left: 30rem;
+    padding-right: 5rem;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.nav-options p {
+    margin: 30px;
+}
+.nav-options button {
+    display: flex;
+   background-color:white;
+   opacity: 0.5;
+   color: black;
+   padding: 5px 15px 5px 15px;
+   border-radius: 0.5rem;
+   border: none;
+   margin: 20px;
+   font-weight: 700;
+}
+.nav-options p:hover {
+    text-decoration: underline;
+}
+.des1 {
+    position:absolute;
+    z-index: -1;
+}  
+.girl {
+   margin-left: 200px;
+   height: 100px;
+   width: 100px;
+   margin-top: 45px;
+} 
+h2 {
+    color: #D71F8D;
+    font-size: 50px;
+    font-weight: 20px;
+    text-align: center;
+    margin-top: 75px;
+}
+.d1 {
+    display: flex; 
+    margin-bottom: 150px; 
+}
+.pads {
+    display: flex;
+}
+.pad {
+    height: 300px;
+    width: 400px;
+    margin-left: 150px;
+    color: #02033B;
+}
+h3 {
+    color: #02033B;
+    font-weight: 100px;
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.pads img {
+    height : 250px;
+    width: 250px;
+    margin-left: 50px;
+    border-style: solid;
+    border-color: #812A6E;
+    border-width: 20px;
+}
+.pads button {
+    background-color: #D71F8D;
+    color: #02033B;
+    font-weight: bolder;
+    font-size: 15px;
+    height: 36px;
+    width: 275px;
+    border-radius: 1rem;
+    margin-top: 50px;
+}
+.pads p {
+    font-size: 18px;
+}
+.tampons {
+    display: flex;
+    margin-top: 50px;
+}
+.tam {
+    height: 550px;
+    width: 1000px;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+}
+.tamp {
+    height: 300px;
+    width: 400px;
+    margin-left :600px;
+    margin-top: 100px;
+}
+.tamp p {
+    margin-top: 50px;
+}
+.tm {
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #812A6E;
+}
+.tampons button {
+    background-color: #D71F8D;
+    color: #02033B;
+    font-weight: bolder;
+    font-size: 15px;
+    height: 36px;
+    width: 275px;
+    border-radius: 1rem;
+    margin-top: 50px;
+}
+.tampons p {
+    font-size: 18px;
+}
+.cup {
+    display :flex;
+    margin-left: 50px;
+    margin-top: 130px;
+}
+.mc {
+    height: 300px;
+    width: 400px;
+    margin-left :50px;
+    margin-top: 100px;
+}
+.cp {
+    height: 200px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #812A6E;
+}
+.mc p {
+    font-size: 18px;
+}
+.mc button {
+    background-color: #D71F8D;
+    color: #02033B;
+    font-weight: bolder;
+    font-size: 15px;
+    height: 36px;
+    width: 275px;
+    border-radius: 1rem;
+    margin-top: 50px;
+}
+.punderw {
+    display: flex;
+    margin-top: 50px;
+}
+.pd {
+    height: 550px;
+    width: 1000px;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+}
+.pdw {
+    height: 450px;
+    width: 450px;
+    margin-left :600px;
+    margin-top: 100px;
+}
+.pdw p {
+    margin-top: 50px;
+}
+.pp {
+    height: 200px;
+    width: 200px;
+    margin-left: 15px;
+    margin-top: 100px;
+    border-style: solid;
+    border-width: 20px;
+    border-color: #812A6E;
+    right: 0;
+}
+.punderw button {
+    background-color: #D71F8D;
+    color: #02033B;
+    font-weight: bolder;
+    font-size: 15px;
+    height: 36px;
+    width: 275px;
+    border-radius: 1rem;
+    margin-top: 50px;
+}
+.punderw p {
+    font-size: 18px;
+}
+
+.footer {
+    bottom:0;
+    background-color: #D71F8D;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    z-index: 10;
+}
+
+.logo2 {
+    height: 300px;
+    width: 250px;
+}
+.logo2 img {
+    height: 100px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.logo2 p {
+    color: white;
+    font-weight: 300px;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.con {
+    margin-left: 100px;
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+  
+} 
+
+.mail {  
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.contact {
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+}
+.cn {
+    margin-left: 200px;
+    color: white;
+    font-size: 25px;
+    display: block;
+    width: 250px;
+    height: 300px;
+    margin-top: 50px;
+}
+.cn:hover i {
+    border: black;
+}
