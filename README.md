@@ -35,4 +35,4 @@ We welcome contributions from individuals passionate about women's health and br
 
 Have questions, feedback, or suggestions? We'd love to hear from you! You can reach out to us via:
 
-- Email: [contact@feminesync.com](mailto:sagarjha2004@gmail.com)
+- Email: [contact@feminesync.com](mailto:sagarjha2004@gmail.com).
