@@ -1,4 +1,4 @@
-# Femine Sync
+# Femine Syn
 
 ## Introduction
 
